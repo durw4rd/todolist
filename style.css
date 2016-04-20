@@ -48,6 +48,11 @@ ul#todolist .todo.completed label {
   color: #999;
 }
 
+span {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
 .footer {
   margin-top: 10px;
   background: #323232;
