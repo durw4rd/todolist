@@ -58,7 +58,7 @@ ul#todolist .todo.completed label {
 }
 
 .footer a:link,
-.footer a:hover
+.footer a:hover,
 .footer a:visited {
   color: #e6e6e6;
   text-decoration: none;
